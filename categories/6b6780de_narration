@@ -3,8 +3,8 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://ld.iri-research.org/ontology/categorisation/category#7c6b2e7f_rythme> rdfs:label "Rythme" ;
-    rdf:Description "Catégorie utilisée dès le début de l'atelier 1 (version 1, couleur bleu foncé). Les instances suivantes de cette catégories sont censées refléter comme elle a évolué: ça me bouge (v2, fin d'atelier1), rythme/archaïsme (v3 après l'atelier), rythme/synchronisation (v4)" ;
-    rdf:ID "7c6b2e7f_rythme" ;
+<http://ld.iri-research.org/ontology/categorisation/category#6b6780de_narration> rdfs:label "Narration" ;
+    rdf:Description "Catégorie décrivant un enchainement musical mélodique qui raconte une histoire ou qui se rapporte à un style (en orange au début de l'atelier 1)" ;
+    rdf:ID "6b6780de_narration" ;
     rdfs:Resource <http://ldt.iri.centrepompidou.fr/ldtplatform/ldt/embediframe/?polemics_list=%5B%7B%22keywords%22%3A%5B%22M%5Cu00e9lodie%22%5D%2C%22color%22%3A%22rgb%28205%2C200%2C63%29%22%2C%22name%22%3A%22melodie%22%7D%2C%7B%22keywords%22%3A%5B%22Rythme%22%5D%2C%22color%22%3A%22rgb%2878%2C144%2C204%29%22%2C%22name%22%3A%22rythme%22%7D%2C%7B%22keywords%22%3A%5B%22Narration%22%5D%2C%22color%22%3A%22rgb%28211%2C94%2C60%29%22%2C%22name%22%3A%22narration%22%7D%2C%7B%22keywords%22%3A%5B%22Interaction+entre+musiciens%22%5D%2C%22color%22%3A%22rgb%28197%2C163%2C202%29%22%2C%22name%22%3A%22interaction%22%7D%2C%7B%22keywords%22%3A%5B%22Gestuelle%22%5D%2C%22color%22%3A%22rgb%28121%2C187%2C146%29%22%2C%22name%22%3A%22gestuelle%22%7D%2C%7B%22keywords%22%3A%5B%22Instruments%22%5D%2C%22color%22%3A%22rgb%28137%2C199%2C214%29%22%2C%22name%22%3A%22a-rejouer%22%7D%2C%7B%22keywords%22%3A%5B%22%5Cu00c0+Rejouer%22%5D%2C%22color%22%3A%22rgb%28222%2C139%2C83%29%22%2C%22name%22%3A%22a-rejouer%22%7D%5D&polemic=all&createannotation_polemics=False&createannotation=True&tag_titles=&polemic__max_elements=200&project_id=fad36844-5b6b-11e4-bcbc-00145ea4a2be&player_width=640&player_height=360#id=s_3fdacfd0-68e7-11e4-9599-00145ea4a2be> .
 

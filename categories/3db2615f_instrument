@@ -1,0 +1,10 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://ld.iri-research.org/ontology/categorisation/category#3db2615f_instrument> rdfs:label "Instrument" ;
+    rdf:Description "Catégorie basique (couleur bleu clair en début d'atelier) qui ne devrait pas nécessiter de discussion sauf si l'instrument se complexifie avec de l'électronique ou des traitements informatiques temps réel (ex: OMAX ou Improtek)" ;
+    rdf:ID "3db2615f_instrument" ;
+    rdfs:Resource <http://ldt.iri.centrepompidou.fr/ldtplatform/ldt/embediframe/?polemics_list=%5B%7B%22keywords%22%3A%5B%22M%5Cu00e9lodie%22%5D%2C%22color%22%3A%22rgb%28205%2C200%2C63%29%22%2C%22name%22%3A%22melodie%22%7D%2C%7B%22keywords%22%3A%5B%22Rythme%22%5D%2C%22color%22%3A%22rgb%2878%2C144%2C204%29%22%2C%22name%22%3A%22rythme%22%7D%2C%7B%22keywords%22%3A%5B%22Narration%22%5D%2C%22color%22%3A%22rgb%28211%2C94%2C60%29%22%2C%22name%22%3A%22narration%22%7D%2C%7B%22keywords%22%3A%5B%22Interaction+entre+musiciens%22%5D%2C%22color%22%3A%22rgb%28197%2C163%2C202%29%22%2C%22name%22%3A%22interaction%22%7D%2C%7B%22keywords%22%3A%5B%22Gestuelle%22%5D%2C%22color%22%3A%22rgb%28121%2C187%2C146%29%22%2C%22name%22%3A%22gestuelle%22%7D%2C%7B%22keywords%22%3A%5B%22Instruments%22%5D%2C%22color%22%3A%22rgb%28137%2C199%2C214%29%22%2C%22name%22%3A%22a-rejouer%22%7D%2C%7B%22keywords%22%3A%5B%22%5Cu00c0+Rejouer%22%5D%2C%22color%22%3A%22rgb%28222%2C139%2C83%29%22%2C%22name%22%3A%22a-rejouer%22%7D%5D&polemic=all&createannotation_polemics=False&createannotation=True&tag_titles=&polemic__max_elements=200&project_id=fad36844-5b6b-11e4-bcbc-00145ea4a2be&player_width=640&player_height=360#id=s_4c3ccda2-9699-11e4-8e71-00145ea4a2be> .
+
